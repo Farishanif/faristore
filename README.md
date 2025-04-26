@@ -1,4 +1,4 @@
-#FariStore
+<h1>FariStore</h1>
 
 <p>Freelance project of socmed-faris. This is the incomplete prototype version of the real website to avoid unnecessary problems that may arise if I show the real one to the public.</p>
 
